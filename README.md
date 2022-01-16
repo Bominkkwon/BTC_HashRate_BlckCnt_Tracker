@@ -1,7 +1,6 @@
 # BTC_HashRate_BlckCnt_Tracker
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_MLIv2zu_YBIiEDxpDh29fKvs-TI8jXB?usp=sharing)
 
-![](img/img.webp)
 
 ## Table of Contents
 * [Project title](#project-title)
